@@ -11,6 +11,10 @@ Unbedingt den PCM2706C oder PCM2707C (auf DigiKey nicht verfügbar) von TI nehme
 Die anderen (insbesondere PCM290x) haben kein I²S
 Unterschied zwischen C und nicht C Chips: https://www.ti.com/lit/an/sbfa019/sbfa019.pdf
 
+andere chips: CM6635 (mouser, wie im schiit hel), CP2615 (24bit 48k discontinued), USB4715 (digikey und mouser), CS8412, CS8416 (mouser)
+Gibt es Alternativen von Cirrus Logic?
+http://3.bp.blogspot.com/-GhfnEOvmYFY/UG3X19q91BI/AAAAAAAAAgU/z2ZkhkYbzWM/s1600/i2s_interface.jpg
+
 
 
 https://hackaday.com/2013/08/27/building-a-high-end-usb-audio-dac/
@@ -55,6 +59,26 @@ TO BUY:
 - FUUULLL BRIDGE RECTIFIAAA!
 - power jack
 
- 
+
+
+Transformer: https://www.digikey.de/de/products/detail/triad-magnetics/VPT48-520/2090066
 
 https://de.aliexpress.com/item/1005003917089451.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%200%2C71%210%2C70%20%E2%82%AC%21%21%21%21%21%40211b58eb16788789320772259ed6a2%2112000027461299284%21btf&_t=pvid%3Aea919be6-11cf-4aa8-99cb-08c2e62dac53&afTraceInfo=1005003917089451__pc__pcBridgePPC__xxxxxx__1678878932&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2deu
+
+
+for silkscreen images: see https://www.youtube.com/watch?v=hoLf8gvvXXU for min line thickness
+
+
+# other dacs
+
+## schiit LYR
+
+https://www.schiit.com/products/lyr
+
+- has good description of power supply
+
+Gain: 5.7 (15dB) on high, 1.2 (1.35dB) on low
+
+(per channel)
+23 Vpeak, 39mApeak @ 600Ω, 450mW
+17 Vpeak, 1Apeak @ 16Ω, 9W
