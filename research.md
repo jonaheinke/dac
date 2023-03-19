@@ -6,14 +6,26 @@ https://www.reichelt.de/gehaeuse-serie-pult-85-x-56-x-35-mm-teko-101-p33380.html
 
 
 
+https://www.eevblog.com/forum/projects/who-makes-and-where-to-buy-usb-audio-chips/
+
 https://de.wikipedia.org/wiki/I%C2%B2S
 Unbedingt den PCM2706C oder PCM2707C (auf DigiKey nicht verfügbar) von TI nehmen (C ist wichtig, PJT folgt immer, ob R(eel) oder nicht ist egal)
 Die anderen (insbesondere PCM290x) haben kein I²S
 Unterschied zwischen C und nicht C Chips: https://www.ti.com/lit/an/sbfa019/sbfa019.pdf
 
-andere chips: CM6635 (mouser, wie im schiit hel), CP2615 (24bit 48k discontinued), USB4715 (digikey und mouser), CS8412, CS8416 (mouser)
+andere chips: CM6635 (mouser, wie im schiit hel), CP2615 (24bit 48k discontinued), CS8412, CS8416 (mouser)
 Gibt es Alternativen von Cirrus Logic?
 http://3.bp.blogspot.com/-GhfnEOvmYFY/UG3X19q91BI/AAAAAAAAAgU/z2ZkhkYbzWM/s1600/i2s_interface.jpg
+
+dac chips:
+- PCM1753
+- PCM1754
+- PCM1755
+- PCM1780
+- PCM1781
+- PCM1782
+- CS4344
+
 
 
 
