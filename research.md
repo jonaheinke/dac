@@ -75,8 +75,11 @@ TO BUY:
 
 Transformer: https://www.digikey.de/de/products/detail/triad-magnetics/VPT48-520/2090066
 
+Mains input: https://www.digikey.de/de/products/detail/delta-electronics/06A2/3830616
+
 https://de.aliexpress.com/item/1005003917089451.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%200%2C71%210%2C70%20%E2%82%AC%21%21%21%21%21%40211b58eb16788789320772259ed6a2%2112000027461299284%21btf&_t=pvid%3Aea919be6-11cf-4aa8-99cb-08c2e62dac53&afTraceInfo=1005003917089451__pc__pcBridgePPC__xxxxxx__1678878932&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2deu
 
+https://www.digikey.de/de/products/detail/adafruit-industries-llc/5531/16653412
 
 for silkscreen images: see https://www.youtube.com/watch?v=hoLf8gvvXXU for min line thickness
 

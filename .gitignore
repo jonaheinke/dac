@@ -1,3 +1,13 @@
+#KiCAD
 *-backups/
+\#auto_saved_files\#
+fp-info-cache
+*.bak
+
+#LTspice
+*.raw
+*.log
+
+#large PDF files, not under MIT License
 books/
 datasheets/

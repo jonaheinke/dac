@@ -274,7 +274,16 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "Net-(J1-VBUS-PadA4)": "Vbus",
+      "Net-(U2-Vdd)": "Vdd",
+      "unconnected-(C2-Pad2)": "Vbus",
+      "unconnected-(D4-A2-Pad2)": "Vbus",
+      "unconnected-(R5-Pad2)": "Vbus",
+      "unconnected-(R8-Pad2)": "Vdd",
+      "unconnected-(U2-PSEL-Pad4)": "Vdd",
+      "unconnected-(U2-Vbus-Pad10)": "Vbus"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -326,6 +335,14 @@
     [
       "8a133d32-893e-4939-a0f4-ae81724d72bd",
       ""
+    ],
+    [
+      "d01c9e14-68b0-48a3-837e-f97a0ab88635",
+      "amplifier_left"
+    ],
+    [
+      "88154d5f-cf01-45a6-ad8d-c76127739c0f",
+      "amplifier_right"
     ]
   ],
   "text_variables": {}
