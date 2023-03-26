@@ -1,11 +1,3 @@
-https://www.reichelt.de/gehaeuse-serie-pult-216-x-130-x-76-mm-teko-363-p21188.html?&trstct=pol_88&nbc=1
-https://www.reichelt.de/gehaeuse-serie-pult-161-x-97-x-60-mm-teko-362-p21187.html?&trstct=pol_56&nbc=1
-https://www.reichelt.de/gehaeuse-serie-pult-160-x-96-x-59-mm-teko-103-p34065.html?&trstct=pol_85&nbc=1
-https://www.reichelt.de/gehaeuse-serie-pult-110-x-70-x-46-mm-teko-102-p34064.html?&trstct=pol_32&nbc=1
-https://www.reichelt.de/gehaeuse-serie-pult-85-x-56-x-35-mm-teko-101-p33380.html?&trstct=pol_2&nbc=1
-
-
-
 https://www.eevblog.com/forum/projects/who-makes-and-where-to-buy-usb-audio-chips/
 
 https://de.wikipedia.org/wiki/I%C2%B2S
@@ -52,9 +44,14 @@ good precision current source: https://sound-au.com/ism.htm
 
 TO WATCH/READ:
 - https://www.youtube.com/watch?v=PkJqE-EsoWY
+- how to design frot panels: https://www.youtube.com/watch?v=wg_J9WElvBY
 
 
 TO BUY:
+- USB C extender
+- isolation heat pads !!!!!!!!!!!!!!!!!! (and check heat sink footprint)
+- nylon isolators for screws
+- gold screws for panels -> see https://www.youtube.com/watch?v=wg_J9WElvBY @ 5:05
 - USB to I²S chips
 - audio dacs
 - output resistors
@@ -77,12 +74,29 @@ Transformer: https://www.digikey.de/de/products/detail/triad-magnetics/VPT48-520
 
 Mains input: https://www.digikey.de/de/products/detail/delta-electronics/06A2/3830616
 
+USB extender: https://de.aliexpress.com/item/1005003747287943.html oder https://de.aliexpress.com/item/1005003439708042.html
+
+USB breakout: https://www.digikey.de/de/products/detail/sparkfun-electronics/BOB-15100/9770720
+
+use resettable fuse for power supply
+
+diode gates: https://www.sanfoundry.com/analog-electronic-circuits-questions-answers-diode-gates-rectifiers/
+
+case categories:
+- Endelement(e)
+- Geteilte Seiten und Endelement(e)
+- Handformat, Endelement und Abdeckung
+- Handformat, Geteilte Seiten und Endelemente
+-> https://www.reichelt.de/profilgehaeuse-1455-n-220-x-103-x-53-mm-schwarz-1455n2201bk-p221380.html
+-> https://www.reichelt.de/profilgehaeuse-1455-n-160-x-103-x-53-mm-schwarz-eloxiert-1455n1602bk-p221378.html
+- beide gibt es auch auf Digikey, sind dort aber teurer
+
+
 https://de.aliexpress.com/item/1005003917089451.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%200%2C71%210%2C70%20%E2%82%AC%21%21%21%21%21%40211b58eb16788789320772259ed6a2%2112000027461299284%21btf&_t=pvid%3Aea919be6-11cf-4aa8-99cb-08c2e62dac53&afTraceInfo=1005003917089451__pc__pcBridgePPC__xxxxxx__1678878932&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2deu
 
 https://www.digikey.de/de/products/detail/adafruit-industries-llc/5531/16653412
 
 for silkscreen images: see https://www.youtube.com/watch?v=hoLf8gvvXXU for min line thickness
-
 
 # other dacs
 
@@ -97,3 +111,7 @@ Gain: 5.7 (15dB) on high, 1.2 (1.35dB) on low
 (per channel)
 23 Vpeak, 39mApeak @ 600Ω, 450mW
 17 Vpeak, 1Apeak @ 16Ω, 9W
+
+
+
+- https://jlcpcb.com/help/article/16-How-to-generate-Gerber-and-Drill-files-in-KiCad-6
