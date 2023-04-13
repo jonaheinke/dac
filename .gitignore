@@ -3,9 +3,13 @@
 \#auto_saved_files\#
 fp-info-cache
 *.bak
+*.kicad_prl
+*.net
+*.xml
 
 #LTspice
 *.raw
+*.plt
 *.log
 
 #large PDF files, not under MIT License

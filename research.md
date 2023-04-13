@@ -1,3 +1,13 @@
+https://youtu.be/7irqcglKvKk
+
+
+https://www.ampslab.com/c300.htm
+
+
+https://electronics.stackexchange.com/questions/602517/discrete-headphone-amplifier-output-stage
+
+
+
 https://www.eevblog.com/forum/projects/who-makes-and-where-to-buy-usb-audio-chips/
 
 https://de.wikipedia.org/wiki/I%C2%B2S
@@ -18,6 +28,24 @@ dac chips:
 - PCM1782
 - CS4344
 
+
+
+https://www.headphonesty.com/headphone-power-calculator/
+
+@120dB:
+max power: Audeze LCD-3 - 1315mWrms
+max voltage: Beyerdynamic DT770 PRO - 12.59Vrms
+max current: Audeze LCD-3 - 165.5mArms
+
+@110dB:
+max power: Audeze LCD-3 - 132mWrms
+max voltage: Beyerdynamic DT770 PRO - 4Vrms
+max current: Audeze LCD-3 - 52.4mArms
+
+
+overcurrent chip:
+https://www.digikey.de/de/products/detail/richtek-usa-inc/RT1720GF/6002895
+overcurrent circuit: https://forum.allaboutcircuits.com/threads/current-limiting-circuit.170070/  https://electronics.stackexchange.com/questions/200716/current-limiting-with-mosfet
 
 
 
@@ -44,14 +72,20 @@ good precision current source: https://sound-au.com/ism.htm
 
 TO WATCH/READ:
 - https://www.youtube.com/watch?v=PkJqE-EsoWY
-- how to design frot panels: https://www.youtube.com/watch?v=wg_J9WElvBY
+- how to design front panels: https://www.youtube.com/watch?v=wg_J9WElvBY
 
 
 TO BUY:
+- case: Hammond 1455N1601BK (02 variant has no separate face plate)
 - USB C extender
 - isolation heat pads !!!!!!!!!!!!!!!!!! (and check heat sink footprint)
 - nylon isolators for screws
 - gold screws for panels -> see https://www.youtube.com/watch?v=wg_J9WElvBY @ 5:05
+- screw size for 1455N1602BK
+  - original: 1455MS100
+  - screw length: 9.5mm == 0.375" == 15/32"
+  - screw diameter: M3.5 == 3.5mm == 0.138" == 9/64" == #6
+  - thread per inch: 32 (e.g #6-32)
 - USB to I²S chips
 - audio dacs
 - output resistors
@@ -70,7 +104,7 @@ TO BUY:
 
 
 
-Transformer: https://www.digikey.de/de/products/detail/triad-magnetics/VPT48-520/2090066
+Transformer: 
 
 Mains input: https://www.digikey.de/de/products/detail/delta-electronics/06A2/3830616
 
@@ -78,19 +112,11 @@ USB extender: https://de.aliexpress.com/item/1005003747287943.html oder https://
 
 USB breakout: https://www.digikey.de/de/products/detail/sparkfun-electronics/BOB-15100/9770720
 
+function generator: https://www.youtube.com/watch?v=Y1KE8eAC9Bk @ 4:40
+
 use resettable fuse for power supply
 
 diode gates: https://www.sanfoundry.com/analog-electronic-circuits-questions-answers-diode-gates-rectifiers/
-
-case categories:
-- Endelement(e)
-- Geteilte Seiten und Endelement(e)
-- Handformat, Endelement und Abdeckung
-- Handformat, Geteilte Seiten und Endelemente
--> https://www.reichelt.de/profilgehaeuse-1455-n-220-x-103-x-53-mm-schwarz-1455n2201bk-p221380.html
--> https://www.reichelt.de/profilgehaeuse-1455-n-160-x-103-x-53-mm-schwarz-eloxiert-1455n1602bk-p221378.html
-- beide gibt es auch auf Digikey, sind dort aber teurer
-
 
 https://de.aliexpress.com/item/1005003917089451.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%200%2C71%210%2C70%20%E2%82%AC%21%21%21%21%21%40211b58eb16788789320772259ed6a2%2112000027461299284%21btf&_t=pvid%3Aea919be6-11cf-4aa8-99cb-08c2e62dac53&afTraceInfo=1005003917089451__pc__pcBridgePPC__xxxxxx__1678878932&spm=a2g0o.ppclist.product.mainProduct&gatewayAdapt=glo2deu
 
@@ -111,6 +137,11 @@ Gain: 5.7 (15dB) on high, 1.2 (1.35dB) on low
 (per channel)
 23 Vpeak, 39mApeak @ 600Ω, 450mW
 17 Vpeak, 1Apeak @ 16Ω, 9W
+
+## QRV01
+
+https://sjostromaudio.com/pages/index.php/hifi-projects/122-qrv01-headphone-amp
+ay yo wtf
 
 
 
