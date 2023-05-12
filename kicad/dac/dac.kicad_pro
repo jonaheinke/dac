@@ -401,7 +401,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "library"
+    ],
     "pinned_symbol_libs": [
       "library"
     ]
@@ -502,6 +504,10 @@
     [
       "88154d5f-cf01-45a6-ad8d-c76127739c0f",
       "amplifier_right"
+    ],
+    [
+      "9aaf1754-900d-4340-bdec-8cf556dd71c2",
+      "test"
     ]
   ],
   "text_variables": {}
