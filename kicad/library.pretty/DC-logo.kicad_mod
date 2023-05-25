@@ -1,0 +1,64 @@
+(footprint "LOGO" (version 20221018) (generator bitmap2component)
+  (layer "F.Cu")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "G***" (at 0 0) (layer "F.SilkS")
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    (tstamp 3a6f208b-f099-4d03-939e-7d47132a13fa)
+  )
+  (fp_text value "LOGO" (at 0.75 0) (layer "F.SilkS") hide
+      (effects (font (size 1.5 1.5) (thickness 0.3)))
+    (tstamp 2459c0eb-8f75-4879-87e1-5f98ba2a792f)
+  )
+  (fp_poly
+    (pts
+      (xy -2.240171 0.055365)
+      (xy -1.680299 0.056056)
+      (xy -1.679599 0.279594)
+      (xy -1.678900 0.503133)
+      (xy -2.239471 0.503133)
+      (xy -2.800043 0.503133)
+      (xy -2.800043 0.278904)
+      (xy -2.800043 0.054675)
+    )
+
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.SilkS") (tstamp f6e32ef6-acee-42aa-bb82-27d365160c2d))
+  (fp_poly
+    (pts
+      (xy 0.559888 0.279594)
+      (xy 0.560588 0.503133)
+      (xy 0.000000 0.503133)
+      (xy -0.560587 0.503133)
+      (xy -0.559888 0.279594)
+      (xy -0.559188 0.056056)
+      (xy 0.000000 0.056056)
+      (xy 0.559189 0.056056)
+    )
+
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.SilkS") (tstamp d24e0712-7c35-4695-8533-b8557a3bd6fc))
+  (fp_poly
+    (pts
+      (xy 2.800043 0.278904)
+      (xy 2.800043 0.503133)
+      (xy 2.239472 0.503133)
+      (xy 1.678900 0.503133)
+      (xy 1.679600 0.279594)
+      (xy 1.680300 0.056056)
+      (xy 2.240171 0.055365)
+      (xy 2.800043 0.054675)
+    )
+
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 0b504ef9-8f0f-435b-9f6a-61c5b3d22bf3))
+  (fp_poly
+    (pts
+      (xy 2.800043 -0.615244)
+      (xy 2.800043 -0.391022)
+      (xy 0.000000 -0.391022)
+      (xy -2.800043 -0.391022)
+      (xy -2.800043 -0.615244)
+      (xy -2.800043 -0.839466)
+      (xy 0.000000 -0.839466)
+      (xy 2.800043 -0.839466)
+    )
+
+    (stroke (width 0.000000) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 36e32718-6385-485d-9b78-b19e3b5bda3a))
+)

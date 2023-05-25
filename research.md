@@ -1,3 +1,10 @@
+TIs Opamps
+OPA165x great, probably better
+OPA1611 recommended 
+https://www.diyaudio.com/community/threads/choosing-of-best-sounding-op-amps-for-the-lowest-possible-thd-n-really-the-best-way.367692/
+https://www.ti.com/de-de/amplifier-circuit/op-amps/audio/products.html
+
+
 https://youtu.be/7irqcglKvKk
 
 

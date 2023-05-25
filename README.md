@@ -15,3 +15,7 @@
 ### Power supply
 
 ![power supply](kicad/power_supply/power_supply.svg)
+
+### Front plate
+
+![power supply](kicad/front_plate/front_plate.svg)
