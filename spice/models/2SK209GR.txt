@@ -1,0 +1,7 @@
+.model 2SK209GR NJF ; keantoken 2020
+; Data from luvdunhill at DIYAudio.com
+; Id is low below <-450mVgs due to model.
++ Beta=21.85m Vto=-0.5359 Rd=12.194
++ Rs=13 Is=2.613f Cgd=14.58p Cgs=14.78p
++ Pb=0.3754 Fc=0.5 N=1 Kf=0.014f
++ Lambda=6.15m Mfg=Toshiba

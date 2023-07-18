@@ -1,0 +1,5 @@
+.model 2SK209BL njf vto = -0.7869
++ beta = 0.021 lambda = 6.15e-3 rd = 12.194
++ rs = 16.746 is = 2.613e-15 cgd = 1.458e-11
++ cgs = 1.478e-11 pb = 0.3754
++ fc = 0.5 N = 1

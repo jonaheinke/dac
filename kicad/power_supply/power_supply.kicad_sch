@@ -5054,7 +5054,7 @@
     (property "Footprint" "library:Heatsink_10x10" (at 81.5848 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 81.5848 40.64 0)
+    (property "Datasheet" "https://www.aliexpress.com/item/1005003093011615.html" (at 81.5848 40.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
